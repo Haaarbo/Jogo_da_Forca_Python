@@ -109,7 +109,7 @@ O   |
 
     
     def check_win(self):
-        if
+        if '_' not in lista_underlines
         
         
 
